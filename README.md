@@ -79,10 +79,6 @@ Actualiza las etiquetas de pasos y mínimos en la interfaz, cambiando el color s
    go run main.go
    ```
 
-## Créditos
-
-Desarrollado por Diego, 2025.
-
 ## Licencia
 
 Este proyecto está licenciado bajo la MIT License - ver el archivo [LICENSE](LICENSE) para más detalles.
