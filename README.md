@@ -81,7 +81,7 @@ Actualiza las etiquetas de pasos y mínimos en la interfaz, cambiando el color s
 
 ## Créditos
 
-Desarrollado por Diego, 2025. Solución y documentación generadas con ayuda de GitHub Copilot.
+Desarrollado por Diego, 2025.
 
 ## Licencia
 
